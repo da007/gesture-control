@@ -1,0 +1,3 @@
+medipipe
+pyautowin
+opencv-python
